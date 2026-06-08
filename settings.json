@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mitch67.aternos.me",
+    "ip": "Mitch67.aternos.me:51288",
     "port": 51288,
     "version": "",
     "try-creative": false
